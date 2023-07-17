@@ -1,0 +1,2 @@
+# Inheritance
+Python inheritance basics
